@@ -28,7 +28,7 @@ insert into items (category_id, name, description, price, image_url, sort_order)
   ('11111111-1111-1111-1111-111111111104', 'Cookie fraise matcha', 'Cookie matcha vert garni de fraises séchées et touches de citron', 450, '/img/photo_34_2026-07-17_20-58-21.jpg', 3);
 
 update shop_settings set
-  whatsapp_number = '213555123456',
+  whatsapp_number = '213542734809',
   followers_count = 4250,
   rating = 4.5
 where id = 1;

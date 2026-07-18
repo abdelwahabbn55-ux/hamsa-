@@ -48,7 +48,7 @@ create table if not exists order_items (
 create table if not exists shop_settings (
   id int primary key default 1 check (id = 1),
   is_open_override boolean,
-  whatsapp_number text default '213XXXXXXXXX',
+  whatsapp_number text default '213542734809',
   followers_count int default 4200,
   rating numeric default 4.5
 );

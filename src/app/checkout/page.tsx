@@ -97,7 +97,7 @@ function CheckoutContent() {
       });
 
       const whatsappUrl = getWhatsAppLink(
-        settings?.whatsapp_number ?? "213555123456",
+        "213542734809", // Hardcoded to ensure it uses the real number regardless of DB value
         message
       );
 
