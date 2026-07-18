@@ -1,0 +1,151 @@
+{
+  "restaurant": "Hamsa Coffee Brunch",
+  "tagline": "Where Souls Meets !",
+  "source": "https://tablebeep.com/menu/hamsa-coffee-brunch",
+  "banner_image": "https://tablebeep.com/public-banner.php?id=28",
+  "currency": "DA",
+  "contact": {
+    "whatsapp": "https://wa.me/0542734809",
+    "phone": "0542734809",
+    "facebook": "https://www.facebook.com/share/1EejmdzFKb/?mibextid=wwXIfr",
+    "instagram": "https://www.instagram.com/hamsa_coffee_brunch?igsh=MWJudmZsdmRlZnF2cw==",
+    "tiktok": "https://www.tiktok.com/@hamsa.coffee.brunch?_r=1&_t=ZS-96tu3n74gEP",
+    "google_maps": "https://maps.app.goo.gl/qyFVRFRdnpFQGYHT7"
+  },
+  "categories": [
+    {
+      "name": "BRUNCH SALÉ",
+      "items": [
+        {"name": "Bruschetta Caprese", "description": "Pain de campagne toasté - crème cheese - avocat - tomates cerises - mozzarella", "price": 1600, "image": "https://tablebeep.com/public-image.php?id=4585"},
+        {"name": "Bruschetta Avocat Saumon", "description": "Pain de campagne toasté - crème cheese - avocat - saumon", "price": 2500, "image": "https://tablebeep.com/public-image.php?id=4586"},
+        {"name": "Bruschetta Avocat Crevettes", "description": "Pain de campagne toasté - crème cheese - avocat - crevettes", "price": 2300, "image": "https://tablebeep.com/public-image.php?id=4587"},
+        {"name": "Bruschetta Burrata", "description": "Pain de campagne toasté - crème cheese - tomate - burrata", "price": 1600, "image": "https://tablebeep.com/public-image.php?id=4588"},
+        {"name": "Brioche Forestière", "description": "Pain brioché - avocat champignons - œuf sauce hollandaise", "price": 1500, "image": "https://tablebeep.com/public-image.php?id=4589"},
+        {"name": "Brioche Harmonie", "description": "Pain brioché - avocat saumon - œuf - sauce hollandaise", "price": 1800, "image": "https://tablebeep.com/public-image.php?id=4590"},
+        {"name": "Hamsa Moment", "description": "Mini tortilla - sauce bolognaise fromage mozzarella", "price": 1200, "image": "https://tablebeep.com/public-image.php?id=4591"},
+        {"name": "Tuna Club Sandwich", "description": "Pain de mie mousse de thon - salade - tomates", "price": 1500, "image": "https://tablebeep.com/public-image.php?id=4592"},
+        {"name": "Chicken Club Sandwich", "description": "Pain de mie - poulet grillé - crème cheese salade tomate", "price": 1300, "image": "https://tablebeep.com/public-image.php?id=4593"},
+        {"name": "Croissant Salé", "description": "Croissant au beurre - œuf - saumon - salade - tomate", "price": 1800, "image": "https://tablebeep.com/public-image.php?id=4594"},
+        {"name": "Burrata Fraîche", "description": "Salade - tomate - burrata - pesto", "price": 1800, "image": "https://tablebeep.com/public-image.php?id=4595"},
+        {"name": "Burrata Sweet", "description": "Salade - burrata - pistache - fraises - pêche", "price": 2000, "image": "https://tablebeep.com/public-image.php?id=4596"},
+        {"name": "Hamsa Soleil", "description": "Salade fraiche - tomate - fromage - croûtons - fruits frais - poulet grillé", "price": 1100, "image": "https://tablebeep.com/public-image.php?id=4597"}
+      ]
+    },
+    {
+      "name": "BRUNCH SUCRÉ",
+      "items": [
+        {"name": "Brioche Tiramisu", "description": "Brioche perdue - crème mascarpone - sauce café", "price": 1500, "image": "https://tablebeep.com/public-image.php?id=4598"},
+        {"name": "Brioche D'or", "description": "Brioche perdue - sauce caramel - beurre salé - banane - boule de glace vanille", "price": 1400, "image": "https://tablebeep.com/public-image.php?id=4599"},
+        {"name": "Pancakes Sirop D'érable", "description": "Pancakes - sirop d'érable - fruits rouges", "price": 1400, "image": "https://tablebeep.com/public-image.php?id=4600"},
+        {"name": "Pancakes Gourmands", "description": "Pistache - chocolat", "price": 1000, "image": "https://tablebeep.com/public-image.php?id=4601"},
+        {"name": "Waffle Caramel", "description": "Waffle - caramel - banane amandes", "price": 1000, "image": "https://tablebeep.com/public-image.php?id=4602"},
+        {"name": "Waffle Chocolat", "description": "", "price": 1000, "image": "https://tablebeep.com/public-image.php?id=4603"},
+        {"name": "Waffle Pistache", "description": "Waffle - pistache - chocolat blanc - éclats de pistache", "price": 1200, "image": "https://tablebeep.com/public-image.php?id=4604"},
+        {"name": "Crêpe gourmande", "description": "Crêpe - chocolat - banane - chantilly", "price": 1200, "image": "https://tablebeep.com/public-image.php?id=4605"},
+        {"name": "Pavlova Aux Fruits Rouges", "description": "", "price": 1300, "image": "https://tablebeep.com/public-image.php?id=4606"},
+        {"name": "Pavlova Mangue", "description": "", "price": 1400, "image": "https://tablebeep.com/public-image.php?id=4607"},
+        {"name": "Granola Bowl", "description": "Yaourt grec - granola maison - fruits frais", "price": 1200, "image": "https://tablebeep.com/public-image.php?id=4608"},
+        {"name": "Crumble Aux Pomme", "description": "Crumble, Pomme Caramélisées, Caramel Beurre Salé, Glace Vanille", "price": 1450, "image": "https://tablebeep.com/public-image.php?id=4637"}
+      ]
+    },
+    {
+      "name": "GLACES",
+      "items": [
+        {"name": "Jardin De Sicile", "description": "Glace pistache - crème de pistache - éclats de pistache", "price": 1200, "image": "https://tablebeep.com/public-image.php?id=4609"},
+        {"name": "Boule De Glace", "description": "Vanille - Fraise - Chocolat", "price": 650, "image": "https://tablebeep.com/public-image.php?id=4610"}
+      ]
+    },
+    {
+      "name": "CAFÉ",
+      "items": [
+        {"name": "Espresso", "description": "", "price": 300, "image": "https://tablebeep.com/public-image.php?id=4531"},
+        {"name": "Double Espresso", "description": "", "price": 400, "image": "https://tablebeep.com/public-image.php?id=4532"},
+        {"name": "Cafe Capsule", "description": "", "price": 400, "image": "https://tablebeep.com/public-image.php?id=4533"},
+        {"name": "Cortado", "description": "", "price": 450, "image": "https://tablebeep.com/public-image.php?id=4534"},
+        {"name": "Cappuccino", "description": "", "price": 500, "image": "https://tablebeep.com/public-image.php?id=4535"},
+        {"name": "Cappuccino personnalisée photo", "description": "", "price": 700, "image": "https://tablebeep.com/public-image.php?id=4536"},
+        {"name": "Cappuccino Brûlée", "description": "", "price": 600, "image": null},
+        {"name": "Mocaccino", "description": "", "price": 600, "image": null},
+        {"name": "Latte Macchiato (vanille-caramel-noisette)", "description": "", "price": 600, "image": "https://tablebeep.com/public-image.php?id=4539"},
+        {"name": "The Infusion", "description": "", "price": 300, "image": null},
+        {"name": "Chocolat Chaud", "description": "", "price": 600, "image": "https://tablebeep.com/public-image.php?id=4541"},
+        {"name": "Hot Milk", "description": "", "price": 250, "image": "https://tablebeep.com/public-image.php?id=4542"},
+        {"name": "Americano", "description": "", "price": 400, "image": null},
+        {"name": "Matcha Latte", "description": "", "price": 600, "image": null},
+        {"name": "Caramel Latte", "description": "", "price": 650, "image": null},
+        {"name": "Vanilla Latte", "description": "", "price": 650, "image": null},
+        {"name": "Pistachio Latte", "description": "", "price": 750, "image": null},
+        {"name": "Spanish Latte", "description": "", "price": 700, "image": null}
+      ]
+    },
+    {
+      "name": "ICED LATTE",
+      "items": [
+        {"name": "Iced Americano", "description": "", "price": 600, "image": "https://tablebeep.com/public-image.php?id=4550"},
+        {"name": "Iced Spanish Latte", "description": "", "price": 750, "image": null},
+        {"name": "Iced Caramel Latte", "description": "", "price": 700, "image": null},
+        {"name": "Iced Speculos Latte", "description": "", "price": 750, "image": null},
+        {"name": "Iced Vanilla Latte", "description": "", "price": 700, "image": null},
+        {"name": "Iced Tiramisu Latte", "description": "", "price": 800, "image": "https://tablebeep.com/public-image.php?id=4555"},
+        {"name": "Iced Coconut Latte", "description": "", "price": 700, "image": null},
+        {"name": "Iced Pistachio Latte", "description": "", "price": 750, "image": null},
+        {"name": "Iced Matcha Latte", "description": "", "price": 600, "image": "https://tablebeep.com/public-image.php?id=4558"},
+        {"name": "Iced Strawberry Matcha", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4559"},
+        {"name": "Mango Matcha", "description": "", "price": 750, "image": null},
+        {"name": "Iced Ube Latte", "description": "", "price": 600, "image": "https://tablebeep.com/public-image.php?id=4561"},
+        {"name": "Iced Ube Caramel", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4562"},
+        {"name": "Iced Ube Vanille", "description": "", "price": 750, "image": null},
+        {"name": "Iced Ube Pistachio", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4564"}
+      ]
+    },
+    {
+      "name": "FRAPPÉ",
+      "items": [
+        {"name": "Frappuccino Caramel", "description": "", "price": 650, "image": null},
+        {"name": "Frappuccino Choco", "description": "", "price": 650, "image": null},
+        {"name": "Frappuccino Cookies", "description": "", "price": 700, "image": null}
+      ]
+    },
+    {
+      "name": "MILKSHAKE",
+      "items": [
+        {"name": "Milkshake Banane-Spéculoos", "description": "", "price": 800, "image": "https://tablebeep.com/public-image.php?id=4568"},
+        {"name": "Milkshake Fruits Rouges", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4569"},
+        {"name": "Milkshake Crumble Cookies", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4570"},
+        {"name": "Milkshake Mangue", "description": "Mangue fraîche, texture onctueuse", "price": 800, "image": "https://tablebeep.com/public-best-seller.php?id=38"}
+      ]
+    },
+    {
+      "name": "COCKTAIL CUBAIN",
+      "items": [
+        {"name": "Mojito Classique", "description": "", "price": 650, "image": "https://tablebeep.com/public-image.php?id=4571"},
+        {"name": "Mojito Fruits Rouges", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4572"},
+        {"name": "Yuzu Fizz", "description": "", "price": 700, "image": null}
+      ]
+    },
+    {
+      "name": "SMOOTHIE",
+      "items": [
+        {"name": "Smoothie Banane", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4574"},
+        {"name": "Smoothie Fraise", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4575"}
+      ]
+    },
+    {
+      "name": "JUS PRESSÉS",
+      "items": [
+        {"name": "Jus D'Orange", "description": "", "price": 600, "image": "https://tablebeep.com/public-image.php?id=4576"},
+        {"name": "Citronade", "description": "", "price": 650, "image": "https://tablebeep.com/public-image.php?id=4577"},
+        {"name": "Jus De Fruit De Saison", "description": "", "price": 700, "image": "https://tablebeep.com/public-image.php?id=4578"}
+      ]
+    },
+    {
+      "name": "MOCKTAILS",
+      "items": [
+        {"name": "Pinacolada", "description": "", "price": 700, "image": "https://tablebeep.com/public-image.php?id=4579"},
+        {"name": "Blush", "description": "", "price": 700, "image": "https://tablebeep.com/public-image.php?id=4580"},
+        {"name": "Ocean Wave", "description": "", "price": 750, "image": "https://tablebeep.com/public-image.php?id=4581"},
+        {"name": "Eau", "description": "", "price": 100, "image": null}
+      ]
+    }
+  ]
+}

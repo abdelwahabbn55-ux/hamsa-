@@ -1,0 +1,80 @@
+category,name,description,price_DA,image_url
+BRUNCH SALÉ,Bruschetta Caprese,Pain de campagne toasté - crème cheese - avocat - tomates cerises - mozzarella,1600,https://tablebeep.com/public-image.php?id=4585
+BRUNCH SALÉ,Bruschetta Avocat Saumon,Pain de campagne toasté - crème cheese - avocat - saumon,2500,https://tablebeep.com/public-image.php?id=4586
+BRUNCH SALÉ,Bruschetta Avocat Crevettes,Pain de campagne toasté - crème cheese - avocat - crevettes,2300,https://tablebeep.com/public-image.php?id=4587
+BRUNCH SALÉ,Bruschetta Burrata,Pain de campagne toasté - crème cheese - tomate - burrata,1600,https://tablebeep.com/public-image.php?id=4588
+BRUNCH SALÉ,Brioche Forestière,Pain brioché - avocat champignons - œuf sauce hollandaise,1500,https://tablebeep.com/public-image.php?id=4589
+BRUNCH SALÉ,Brioche Harmonie,Pain brioché - avocat saumon - œuf - sauce hollandaise,1800,https://tablebeep.com/public-image.php?id=4590
+BRUNCH SALÉ,Hamsa Moment,Mini tortilla - sauce bolognaise fromage mozzarella,1200,https://tablebeep.com/public-image.php?id=4591
+BRUNCH SALÉ,Tuna Club Sandwich,Pain de mie mousse de thon - salade - tomates,1500,https://tablebeep.com/public-image.php?id=4592
+BRUNCH SALÉ,Chicken Club Sandwich,Pain de mie - poulet grillé - crème cheese salade tomate,1300,https://tablebeep.com/public-image.php?id=4593
+BRUNCH SALÉ,Croissant Salé,Croissant au beurre - œuf - saumon - salade - tomate,1800,https://tablebeep.com/public-image.php?id=4594
+BRUNCH SALÉ,Burrata Fraîche,Salade - tomate - burrata - pesto,1800,https://tablebeep.com/public-image.php?id=4595
+BRUNCH SALÉ,Burrata Sweet,Salade - burrata - pistache - fraises - pêche,2000,https://tablebeep.com/public-image.php?id=4596
+BRUNCH SALÉ,Hamsa Soleil,Salade fraiche - tomate - fromage - croûtons - fruits frais - poulet grillé,1100,https://tablebeep.com/public-image.php?id=4597
+BRUNCH SUCRÉ,Brioche Tiramisu,Brioche perdue - crème mascarpone - sauce café,1500,https://tablebeep.com/public-image.php?id=4598
+BRUNCH SUCRÉ,Brioche D'or,Brioche perdue - sauce caramel - beurre salé - banane - boule de glace vanille,1400,https://tablebeep.com/public-image.php?id=4599
+BRUNCH SUCRÉ,Pancakes Sirop D'érable,Pancakes - sirop d'érable - fruits rouges,1400,https://tablebeep.com/public-image.php?id=4600
+BRUNCH SUCRÉ,Pancakes Gourmands,Pistache - chocolat,1000,https://tablebeep.com/public-image.php?id=4601
+BRUNCH SUCRÉ,Waffle Caramel,Waffle - caramel - banane amandes,1000,https://tablebeep.com/public-image.php?id=4602
+BRUNCH SUCRÉ,Waffle Chocolat,,1000,https://tablebeep.com/public-image.php?id=4603
+BRUNCH SUCRÉ,Waffle Pistache,Waffle - pistache - chocolat blanc - éclats de pistache,1200,https://tablebeep.com/public-image.php?id=4604
+BRUNCH SUCRÉ,Crêpe gourmande,Crêpe - chocolat - banane - chantilly,1200,https://tablebeep.com/public-image.php?id=4605
+BRUNCH SUCRÉ,Pavlova Aux Fruits Rouges,,1300,https://tablebeep.com/public-image.php?id=4606
+BRUNCH SUCRÉ,Pavlova Mangue,,1400,https://tablebeep.com/public-image.php?id=4607
+BRUNCH SUCRÉ,Granola Bowl,Yaourt grec - granola maison - fruits frais,1200,https://tablebeep.com/public-image.php?id=4608
+BRUNCH SUCRÉ,Crumble Aux Pomme,"Crumble, Pomme Caramélisées, Caramel Beurre Salé, Glace Vanille",1450,https://tablebeep.com/public-image.php?id=4637
+GLACES,Jardin De Sicile,Glace pistache - crème de pistache - éclats de pistache,1200,https://tablebeep.com/public-image.php?id=4609
+GLACES,Boule De Glace,Vanille - Fraise - Chocolat,650,https://tablebeep.com/public-image.php?id=4610
+CAFÉ,Espresso,,300,https://tablebeep.com/public-image.php?id=4531
+CAFÉ,Double Espresso,,400,https://tablebeep.com/public-image.php?id=4532
+CAFÉ,Cafe Capsule,,400,https://tablebeep.com/public-image.php?id=4533
+CAFÉ,Cortado,,450,https://tablebeep.com/public-image.php?id=4534
+CAFÉ,Cappuccino,,500,https://tablebeep.com/public-image.php?id=4535
+CAFÉ,Cappuccino personnalisée photo,,700,https://tablebeep.com/public-image.php?id=4536
+CAFÉ,Cappuccino Brûlée,,600,
+CAFÉ,Mocaccino,,600,
+CAFÉ,Latte Macchiato (vanille-caramel-noisette),,600,https://tablebeep.com/public-image.php?id=4539
+CAFÉ,The Infusion,,300,
+CAFÉ,Chocolat Chaud,,600,https://tablebeep.com/public-image.php?id=4541
+CAFÉ,Hot Milk,,250,https://tablebeep.com/public-image.php?id=4542
+CAFÉ,Americano,,400,
+CAFÉ,Matcha Latte,,600,
+CAFÉ,Caramel Latte,,650,
+CAFÉ,Vanilla Latte,,650,
+CAFÉ,Pistachio Latte,,750,
+CAFÉ,Spanish Latte,,700,
+ICED LATTE,Iced Americano,,600,https://tablebeep.com/public-image.php?id=4550
+ICED LATTE,Iced Spanish Latte,,750,
+ICED LATTE,Iced Caramel Latte,,700,
+ICED LATTE,Iced Speculos Latte,,750,
+ICED LATTE,Iced Vanilla Latte,,700,
+ICED LATTE,Iced Tiramisu Latte,,800,https://tablebeep.com/public-image.php?id=4555
+ICED LATTE,Iced Coconut Latte,,700,
+ICED LATTE,Iced Pistachio Latte,,750,
+ICED LATTE,Iced Matcha Latte,,600,https://tablebeep.com/public-image.php?id=4558
+ICED LATTE,Iced Strawberry Matcha,,750,https://tablebeep.com/public-image.php?id=4559
+ICED LATTE,Mango Matcha,,750,
+ICED LATTE,Iced Ube Latte,,600,https://tablebeep.com/public-image.php?id=4561
+ICED LATTE,Iced Ube Caramel,,750,https://tablebeep.com/public-image.php?id=4562
+ICED LATTE,Iced Ube Vanille,,750,
+ICED LATTE,Iced Ube Pistachio,,750,https://tablebeep.com/public-image.php?id=4564
+FRAPPÉ,Frappuccino Caramel,,650,
+FRAPPÉ,Frappuccino Choco,,650,
+FRAPPÉ,Frappuccino Cookies,,700,
+MILKSHAKE,Milkshake Banane-Spéculoos,,800,https://tablebeep.com/public-image.php?id=4568
+MILKSHAKE,Milkshake Fruits Rouges,,750,https://tablebeep.com/public-image.php?id=4569
+MILKSHAKE,Milkshake Crumble Cookies,,750,https://tablebeep.com/public-image.php?id=4570
+MILKSHAKE,Milkshake Mangue,"Mangue fraîche, texture onctueuse",800,https://tablebeep.com/public-best-seller.php?id=38
+COCKTAIL CUBAIN,Mojito Classique,,650,https://tablebeep.com/public-image.php?id=4571
+COCKTAIL CUBAIN,Mojito Fruits Rouges,,750,https://tablebeep.com/public-image.php?id=4572
+COCKTAIL CUBAIN,Yuzu Fizz,,700,
+SMOOTHIE,Smoothie Banane,,750,https://tablebeep.com/public-image.php?id=4574
+SMOOTHIE,Smoothie Fraise,,750,https://tablebeep.com/public-image.php?id=4575
+JUS PRESSÉS,Jus D'Orange,,600,https://tablebeep.com/public-image.php?id=4576
+JUS PRESSÉS,Citronade,,650,https://tablebeep.com/public-image.php?id=4577
+JUS PRESSÉS,Jus De Fruit De Saison,,700,https://tablebeep.com/public-image.php?id=4578
+MOCKTAILS,Pinacolada,,700,https://tablebeep.com/public-image.php?id=4579
+MOCKTAILS,Blush,,700,https://tablebeep.com/public-image.php?id=4580
+MOCKTAILS,Ocean Wave,,750,https://tablebeep.com/public-image.php?id=4581
+MOCKTAILS,Eau,,100,
