@@ -49,7 +49,7 @@ export function MenuItemCard({ item, index, onOpenDetail }: MenuItemCardProps) {
       }}
       className="group rounded-[20px] border border-line bg-cream-soft overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300"
     >
-      {/* Image */}
+      {/* Image — strictly uses item.image_url; no index/array-based assignment */}
       <button
         onClick={() => onOpenDetail(item)}
         className="relative block w-full aspect-[4/3] overflow-hidden"
@@ -62,10 +62,16 @@ export function MenuItemCard({ item, index, onOpenDetail }: MenuItemCardProps) {
             fill
             className="object-cover transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.06]"
             sizes="(max-width:640px) 100vw, (max-width:1024px) 50vw, 33vw"
+            unoptimized={item.image_url.startsWith("http")}
           />
         ) : (
-          <div className="h-full w-full bg-cream border-b border-line flex items-center justify-center">
-            <span className="text-4xl opacity-20">☕</span>
+          /* Branded no-photo fallback — intentional minimalist listing */
+          /* TODO: needs photo — swap image_url once shop sends the asset */
+          <div className="h-full w-full bg-[#f5ede0] border-b border-line flex flex-col items-center justify-center gap-2 px-4">
+            <span className="text-3xl">☕</span>
+            <p className="font-display text-sm font-semibold text-espresso/60 text-center leading-tight line-clamp-2">
+              {item.name}
+            </p>
           </div>
         )}
 
