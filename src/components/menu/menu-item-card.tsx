@@ -1,7 +1,6 @@
 "use client";
 
 import { motion, AnimatePresence } from "framer-motion";
-import Image from "next/image";
 import { Plus, Minus } from "lucide-react";
 import type { MenuItem } from "@/types/database";
 import { formatPrice } from "@/lib/utils";
@@ -52,17 +51,15 @@ export function MenuItemCard({ item, index, onOpenDetail }: MenuItemCardProps) {
       {/* Image — strictly uses item.image_url; no index/array-based assignment */}
       <button
         onClick={() => onOpenDetail(item)}
-        className="relative block w-full aspect-[4/3] overflow-hidden"
+        className="relative block w-full aspect-[4/3] overflow-hidden bg-[#f5ede0]"
         aria-label={`Voir ${item.name}`}
       >
         {item.image_url ? (
-          <Image
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
             src={item.image_url}
             alt={item.name}
-            fill
-            className="object-cover transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.06]"
-            sizes="(max-width:640px) 100vw, (max-width:1024px) 50vw, 33vw"
-            unoptimized={item.image_url.startsWith("http")}
+            className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.06]"
           />
         ) : (
           /* Branded no-photo fallback — intentional minimalist listing */
