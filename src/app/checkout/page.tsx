@@ -80,10 +80,7 @@ function CheckoutContent() {
         .insert(orderItems);
       if (itemsError) throw new Error(itemsError.message);
 
-      const { data: settings } = await supabase
-        .from("shop_settings")
-        .select("whatsapp_number")
-        .single();
+      // We use a hardcoded WhatsApp number below, so we don't need to fetch shop_settings
 
       const message = buildWhatsAppMessage({
         orderNumber: order.order_number,
