@@ -14,6 +14,7 @@ export default async function HomePage() {
   ]);
 
   const categoryMap = Object.fromEntries(
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     (categories ?? []).map((c: any) => [c.id, c.name])
   );
 

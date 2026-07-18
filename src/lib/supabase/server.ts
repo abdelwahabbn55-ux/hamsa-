@@ -1,6 +1,8 @@
 import { createServerClient } from "@supabase/ssr";
 import { cookies } from "next/headers";
-import type { Database } from "@/types/database";export function createClient(): any {
+import type { Database } from "@/types/database";
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export function createClient(): any {
   const cookieStore = cookies();
 
   return createServerClient<Database>(
