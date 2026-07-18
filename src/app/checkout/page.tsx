@@ -50,6 +50,7 @@ function CheckoutContent() {
     try {
       const supabase = createClient();
 
+
       const { data: order, error: orderError } = await supabase
         .from("orders")
         .insert({
@@ -63,7 +64,6 @@ function CheckoutContent() {
         })
         .select("id, order_number")
         .single();
-
       if (orderError || !order)
         throw new Error(orderError?.message ?? "Erreur lors de la commande");
 

@@ -14,7 +14,7 @@ export default async function HomePage() {
   ]);
 
   const categoryMap = Object.fromEntries(
-    (categories ?? []).map((c) => [c.id, c.name])
+    (categories ?? []).map((c: any) => [c.id, c.name])
   );
 
   return (

@@ -95,7 +95,7 @@ export default function OrderTrackingPage() {
           table: "orders",
           filter: `id=eq.${orderId}`,
         },
-        (payload) => {
+        (payload: any) => {
           setOrder(payload.new as Order);
           setLastUpdated(new Date());
         }
